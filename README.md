@@ -18,4 +18,4 @@ number of senders can be started with different mean processing time and error r
 
 ### Usage
 `alert_service.py` is the simulation. There is an interactive User Input mode and a Demo mode that runs with sample input.<br>
-`test_alert_service.py` includes the unit tests I have written to test the functionality included in `alert_service.py`.
+`test_alert_service.py` includes unit tests that test the functionality of `alert_service.py`.
